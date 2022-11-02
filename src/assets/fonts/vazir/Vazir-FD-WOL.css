@@ -1,0 +1,34 @@
+@font-face {
+  font-family: Vazir-FD-WOL;
+  font-weight: 600;
+  font-style: normal;
+  src: url("./Vazir-Bold-FD-WOL.ttf");
+}
+
+@font-face {
+  font-family: Vazir-FD-WOL;
+  font-weight: 500;
+  font-style: normal;
+  src: url("./Vazir-Medium-FD-WOL.ttf");
+}
+
+@font-face {
+  font-family: Vazir-FD-WOL;
+  font-weight: 400;
+  font-style: normal;
+  src: url("./Vazir-FD-WOL.ttf");
+}
+
+@font-face {
+  font-family: Vazir-FD-WOL;
+  font-weight: 300;
+  font-style: normal;
+  src: url("./Vazir-Light-FD-WOL.ttf");
+}
+
+@font-face {
+  font-family: Vazir-FD-WOL;
+  font-weight: 100;
+  font-style: normal;
+  src: url("./Vazir-Thin-FD-WOL.ttf");
+}
